@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion",
+  "type": "script",
+  "author": "",
+  "description": {
+    "": "Builds the modular marble run (base, plinko, funnel, track, Archimedes screw lift, marble) and exports STEP/STL."
+  },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}

@@ -1,0 +1,38 @@
+Funnel: OK
+Plinko: OK
+Track: OK
+Screw: OK
+ScrewTower: OK
+HandCrank: OK
+ControlBox: OK
+Marble: OK
+HandCrank exported as a separate file
+Track columns: 5, arms: 19
+Base: OK
+--- alignment (mm) ---
+chute_floor0          174.43
+chute_floor_end       167.55
+z_lip_top             167.42
+z_funnel_rim          163.42
+z_funnel_exit         133.42
+z_funnel0             129.51
+marble_drop_to_cone     7.28
+z_drop                106.58
+z_track_start          64.93
+z_track_end            11.00
+chute length 78.7 mm at 5.0 deg; track length 773.1 mm at 4.0 deg; hairpin Y = 47.2
+body Funnel        min(-43.8,-61.8,129.5) max(43.8,25.8,167.4) vol 25134 mm3
+body Plinko        min(-50.6,-43.0,68.5) max(18.0,7.0,128.5) vol 22898 mm3
+body Track         min(-81.1,-84.6,4.0) max(75.0,69.2,67.9) vol 47330 mm3
+body Screw         min(58.0,-58.6,5.3) max(78.0,-16.1,184.4) vol 20603 mm3
+body ScrewTower    min(-2.3,-66.5,4.0) max(80.0,-6.2,211.5) vol 27137 mm3
+body ControlBox    min(44.0,29.0,4.0) max(86.0,61.0,24.0) vol 7591 mm3
+body ControlBoxLid min(44.0,29.0,22.0) max(86.0,61.0,26.4) vol 2742 mm3
+body Marble        min(-48.1,-14.0,59.0) max(-40.1,-6.0,67.0) vol 268 mm3
+body Base          min(-90.0,-90.0,0.0) max(90.0,90.0,168.9) vol 161524 mm3
+--- interference check (mm3 of overlap; expect none) ---
+  none
+--- marble path clearance (ghost marble r=3.8 along track and chute) ---
+  clear
+Smallest vertical spacing between stacked track passes: 18.9 mm (channel is 10.0 mm tall)
+Exports written to C:\Users\mksg2\AppData\Roaming\Autodesk\Autodesk Fusion 360\API\Scripts\MarbleRun\exports
