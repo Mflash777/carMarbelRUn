@@ -1,13 +1,2 @@
-Item,Qty,Description,Where to buy (Amazon search term),Approx. price (USD),Notes
-Seeed Studio XIAO ESP32-C3,1,Microcontroller that runs firmware/marble_lift,"""Seeed Studio XIAO ESP32C3""",5.00,Any ESP32 board works if you change the pins in config.h
-DRV8833 motor driver module,1,H-bridge for the N20 motor,"""DRV8833 dual motor driver module""",2.00,Only channel A is used
-N20 gear motor 6V 100RPM (3 mm D-shaft),1,Turns the Archimedes screw,"""N20 gear motor 6V 100RPM""",4.00,100 RPM lifts a marble the full height in about 9 s; 60 RPM also works (slower)
-USB-C inline power switch cable,1,ON/OFF switch for the whole machine,"""USB C inline power switch cable""",8.00,Sits between the charger and the XIAO; press it to cut all power
-5 V USB wall charger (1 A or more),1,Power supply,Any phone charger,0.00,
-6x6 mm tactile push button,1,Start/stop and un-jam,"""6x6mm tactile push button""",0.20,Mounts in the control box lid
-10 kOhm potentiometer (7 mm shaft) + knob,1,Speed control (optional),"""10k potentiometer B10K""",0.50,Set USE_POT 0 in config.h if you skip it
-M1.6 x 4 mm screws,2,Hold the N20 motor to the bracket,"""M1.6 screw assortment""",0.10,
-M3 x 8 mm screws + rubber feet,4,Base mounting / feet,"""M3 screw assortment""",0.40,
-8 mm steel balls,10,Marbles,"""8mm steel ball bearings""",3.00,Steel balls roll more consistently than glass marbles
-Dupont jumper wires (female-female),10,Wiring,"""dupont jumper wires""",1.00,
-PLA filament,~250 g,All printed parts,Any,5.00,See README for print settings
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Estimated total shipping,1,,,$0.00,
