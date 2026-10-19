@@ -1,0 +1,5 @@
+cad/MarbleRun/log.txt
+cad/MarbleRun/exports/
+__pycache__/
+*.pyc
+.DS_Store
